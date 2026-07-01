@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0046/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛針論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1642.xml
+    old_id: T32n1642
+hash: sha256:4995abc35d5568db7407f186cc050bb2404d3a7f9ca29089fc448d4f1b2e3d1d
