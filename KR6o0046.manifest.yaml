@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0046_000.yaml, hash: 'sha256:4995abc35d5568db7407f186cc050bb2404d3a7f9ca29089fc448d4f1b2e3d1d'}
-  - {seq: 1, filename: KR6o0046_001.yaml, hash: 'sha256:862377eb6fdca550a378e7be69b1de6ec8033db8bbe4b0fe3dd1a2e4868a4350'}
+  - {seq: 1, filename: KR6o0046_001.yaml, hash: 'sha256:e7539630920b3a203e553ee22c56b057863c3671cae12983a02bf47f55acb67a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0046_001.markers.yaml, hash: 'sha256:11ed9c042b6e96860e1225a7c4d714687954177cd1cf5eb2eddb88e3c0eac6ec'}
+  - {seq: 0, role: markers, filename: assets/KR6o0046_000.markers.yaml, hash: 'sha256:2a509b02e09233c7a2d0bc4f6dcc69b69593441a8ca19666b05aeec1ee0c738d'}
+  - {seq: 1, role: markers, filename: assets/KR6o0046_001.markers.yaml, hash: 'sha256:2b0fd7e6bea17c1bb8f8e7a75e1e0cbc1956707e7670d2d7e5714e7275e273c6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 金剛針論
   type: juan
   level: 1
-hash: sha256:a89d36adf2dea8c22e24847444d059b70f2487fab7263d8302f9a38afbfa28f4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a3b1999f9a95fbf09080273a1702c31a4f82a668bdfbb4a05e9d5c7fbe2fe872
